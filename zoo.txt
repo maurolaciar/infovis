@@ -1,0 +1,9 @@
+Overlaying horizon graphs: increase density and reduce space.
+Splom: Scatter plot matrix.
+Parallel Coordinates: plot the data on parallel axes and connect the corresponding points with lines.
+Colorpelth map.
+Dendrogram.
+Adjacency Diagrams.
+Vornoi and jigsaw treemaps.
+Arc diagram.
+Seriation.
